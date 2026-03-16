@@ -17,7 +17,7 @@
 | 子串 | |
 | 普通数组 | |
 | 矩阵 | |
-| 链表 | [160. 相交链表](notes/0160_intersection_of_two_linked_lists.md) |
+| 链表 | [160. 相交链表](notes/0160_intersection_of_two_linked_lists.md), [206. 反转链表](notes/0206_reverse_linked_list.md) |
 | 二叉树 | |
 | 图论 | |
 | 回溯 | |
